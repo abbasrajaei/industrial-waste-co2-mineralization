@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1040" viewBox="0 0 1800 1040" role="img" aria-labelledby="title desc">
+  <title id="title">Experimental route for indirect carbon dioxide mineralization</title>
+  <desc id="desc">Industrial mineral wastes undergo acid extraction, solid-liquid separation, staged pH-swing purification, and carbonation with a carbonate-rich solution produced by sodium hydroxide scrubbing of carbon dioxide-containing gas. Calcium carbonate is the final product.</desc>
+  <defs>
+    <style>
+      .title{font:700 42px Arial,sans-serif;fill:#132238}.subtitle{font:400 20px Arial,sans-serif;fill:#53657a}
+      .stage{font:700 23px Arial,sans-serif;fill:#132238}.body{font:400 18px Arial,sans-serif;fill:#44566c}
+      .small{font:600 16px Arial,sans-serif;fill:#53657a}.chip{font:600 16px Arial,sans-serif;fill:#24415f}
+      .stream{font:600 16px Arial,sans-serif;fill:#386b9d}.side{font:600 16px Arial,sans-serif;fill:#79502b}
+      .num{font:700 18px Arial,sans-serif;fill:#fff}.white{fill:#fff}
+    </style>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#19324d" flood-opacity=".12"/></filter>
+    <marker id="blueArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#397fc2"/></marker>
+    <marker id="greenArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#2d9a78"/></marker>
+    <marker id="brownArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#b5773d"/></marker>
+  </defs>
+
+  <rect width="1800" height="1040" fill="#f7f9fc"/>
+  <text x="90" y="75" class="title">Experimental route for indirect CO₂ mineralization</text>
+  <text x="90" y="112" class="subtitle">Calcium recovery from steelmaking and cement residues, followed by CO₂ capture and carbonate precipitation</text>
+  <rect x="1460" y="58" width="250" height="48" rx="24" fill="#e3f3eb"/>
+  <circle cx="1490" cy="82" r="8" fill="#2d9a78"/><text x="1510" y="89" class="small" fill="#236b55">Experimentally investigated</text>
+
+  <!-- Feedstock group -->
+  <g filter="url(#shadow)">
+    <rect x="70" y="215" width="275" height="370" rx="24" fill="#fff" stroke="#c9d4e2" stroke-width="2"/>
+  </g>
+  <circle cx="115" cy="260" r="24" fill="#2b5d8a"/><text x="109" y="267" class="num">1</text>
+  <text x="150" y="269" class="stage">Industrial residues</text>
+  <rect x="105" y="315" width="205" height="47" rx="12" fill="#eaf2f9"/><text x="132" y="345" class="chip">BOF slag</text>
+  <rect x="105" y="375" width="205" height="47" rx="12" fill="#eaf2f9"/><text x="132" y="405" class="chip">Blast-furnace slag</text>
+  <rect x="105" y="435" width="205" height="47" rx="12" fill="#eaf2f9"/><text x="132" y="465" class="chip">Ladle slag</text>
+  <rect x="105" y="495" width="205" height="47" rx="12" fill="#eaf2f9"/><text x="132" y="525" class="chip">Cement-kiln dust</text>
+
+  <!-- Main process boxes -->
+  <g filter="url(#shadow)"><rect x="420" y="215" width="270" height="190" rx="24" fill="#fff" stroke="#c9d4e2" stroke-width="2"/></g>
+  <circle cx="465" cy="260" r="24" fill="#2b5d8a"/><text x="459" y="267" class="num">2</text>
+  <text x="500" y="268" class="stage">Acid extraction</text>
+  <text x="455" y="315" class="body">Transfer Ca²⁺ and other soluble</text><text x="455" y="342" class="body">cations into the leachate</text>
+  <rect x="455" y="363" width="195" height="28" rx="14" fill="#fff0dc"/><text x="481" y="383" class="small">Acid + heat + mixing</text>
+
+  <g filter="url(#shadow)"><rect x="765" y="215" width="270" height="190" rx="24" fill="#fff" stroke="#c9d4e2" stroke-width="2"/></g>
+  <circle cx="810" cy="260" r="24" fill="#2b5d8a"/><text x="804" y="267" class="num">3</text>
+  <text x="845" y="256" class="stage">Solid–liquid</text><text x="845" y="284" class="stage">separation</text>
+  <text x="800" y="330" class="body">Recover the calcium-rich</text><text x="800" y="357" class="body">leachate for purification</text>
+
+  <g filter="url(#shadow)"><rect x="1110" y="180" width="425" height="260" rx="24" fill="#fff" stroke="#73a5cf" stroke-width="2.5"/></g>
+  <circle cx="1155" cy="225" r="24" fill="#2b5d8a"/><text x="1149" y="232" class="num">4</text>
+  <text x="1190" y="234" class="stage">Staged pH-swing purification</text>
+  <text x="1145" y="278" class="body">Increase pH in controlled steps.</text>
+  <text x="1145" y="305" class="body">Remove dissolved metal impurities</text>
+  <text x="1145" y="330" class="body">before carbonation.</text>
+  <line x1="1160" y1="365" x2="1482" y2="365" stroke="#a9c7df" stroke-width="5"/>
+  <g>
+    <circle cx="1180" cy="365" r="18" fill="#397fc2"/><text x="1174" y="371" class="num" font-size="14">1</text>
+    <circle cx="1275" cy="365" r="18" fill="#397fc2"/><text x="1269" y="371" class="num" font-size="14">2</text>
+    <circle cx="1370" cy="365" r="18" fill="#397fc2"/><text x="1364" y="371" class="num" font-size="14">3</text>
+    <circle cx="1465" cy="365" r="18" fill="#397fc2"/><text x="1459" y="371" class="num" font-size="14">4</text>
+  </g>
+  <text x="1145" y="405" class="small">Sequential precipitation and filtration</text>
+
+  <g filter="url(#shadow)"><rect x="1590" y="215" width="160" height="190" rx="24" fill="#eaf5fb" stroke="#73a5cf" stroke-width="2"/></g>
+  <text x="1628" y="270" class="stage">Purified</text><text x="1613" y="300" class="stage">Ca-rich liquor</text>
+  <path d="M1640 330c0-18 14-33 31-33s31 15 31 33c0 26-31 52-31 52s-31-26-31-52z" fill="#70b5df" opacity=".9"/>
+
+  <!-- Main stream arrows -->
+  <path d="M345 310H410" fill="none" stroke="#397fc2" stroke-width="8" marker-end="url(#blueArrow)"/>
+  <path d="M690 310H755" fill="none" stroke="#397fc2" stroke-width="8" marker-end="url(#blueArrow)"/>
+  <path d="M1035 310H1100" fill="none" stroke="#397fc2" stroke-width="8" marker-end="url(#blueArrow)"/>
+  <path d="M1535 310H1580" fill="none" stroke="#397fc2" stroke-width="8" marker-end="url(#blueArrow)"/>
+  <text x="708" y="294" class="stream">slurry</text><text x="1048" y="294" class="stream">leachate</text>
+
+  <!-- Side products -->
+  <path d="M900 405V500" fill="none" stroke="#b5773d" stroke-width="5" marker-end="url(#brownArrow)"/>
+  <rect x="792" y="518" width="216" height="48" rx="14" fill="#f7eadf"/><text x="829" y="548" class="side">Extraction residue</text>
+  <path d="M1323 440V500" fill="none" stroke="#b5773d" stroke-width="5" marker-end="url(#brownArrow)"/>
+  <rect x="1204" y="518" width="238" height="48" rx="14" fill="#f7eadf"/><text x="1242" y="548" class="side">Impurity precipitates</text>
+
+  <!-- CO2 capture branch -->
+  <rect x="70" y="665" width="1660" height="270" rx="28" fill="#eef8f4" stroke="#b8ddcf" stroke-width="2"/>
+  <text x="105" y="710" class="small" fill="#236b55">PARALLEL CO₂-CAPTURE ROUTE</text>
+  <g filter="url(#shadow)"><rect x="120" y="750" width="255" height="120" rx="22" fill="#fff" stroke="#a8d4c3" stroke-width="2"/></g>
+  <text x="159" y="802" class="stage">CO₂-containing gas</text><text x="183" y="837" class="body">Simulated flue gas</text>
+  <g filter="url(#shadow)"><rect x="480" y="735" width="300" height="150" rx="22" fill="#fff" stroke="#a8d4c3" stroke-width="2"/></g>
+  <circle cx="525" cy="780" r="24" fill="#2d9a78"/><text x="519" y="787" class="num">5</text>
+  <text x="560" y="789" class="stage">CO₂ absorption</text>
+  <text x="515" y="834" class="body">NaOH scrubber converts CO₂</text><text x="515" y="861" class="body">to aqueous carbonate species</text>
+  <g filter="url(#shadow)"><rect x="890" y="750" width="285" height="120" rx="22" fill="#fff" stroke="#a8d4c3" stroke-width="2"/></g>
+  <text x="932" y="800" class="stage">Carbonate-rich</text><text x="966" y="830" class="stage">solution</text>
+
+  <path d="M375 810H470" fill="none" stroke="#2d9a78" stroke-width="8" marker-end="url(#greenArrow)"/>
+  <path d="M780 810H880" fill="none" stroke="#2d9a78" stroke-width="8" marker-end="url(#greenArrow)"/>
+
+  <!-- Carbonation merge and product -->
+  <g filter="url(#shadow)"><rect x="1280" y="700" width="250" height="190" rx="24" fill="#fff" stroke="#62aa8d" stroke-width="2.5"/></g>
+  <circle cx="1325" cy="745" r="24" fill="#2d9a78"/><text x="1319" y="752" class="num">6</text>
+  <text x="1360" y="754" class="stage">Carbonation</text>
+  <text x="1315" y="798" class="body">Mix purified Ca-rich</text><text x="1315" y="825" class="body">and carbonate-rich</text><text x="1315" y="852" class="body">solutions</text>
+  <path d="M1175 810H1270" fill="none" stroke="#2d9a78" stroke-width="8" marker-end="url(#greenArrow)"/>
+  <path d="M1670 405V620H1405V690" fill="none" stroke="#397fc2" stroke-width="8" marker-end="url(#blueArrow)"/>
+  <text x="1470" y="608" class="stream">purified Ca-rich liquor</text>
+
+  <path d="M1530 795H1600" fill="none" stroke="#2d9a78" stroke-width="8" marker-end="url(#greenArrow)"/>
+  <g filter="url(#shadow)"><rect x="1610" y="700" width="140" height="190" rx="24" fill="#fff8dc" stroke="#d0a832" stroke-width="2.5"/></g>
+  <text x="1642" y="746" class="stage">CaCO₃</text><text x="1638" y="777" class="body">product</text>
+  <g transform="translate(1633 812)"><path d="M0 42L16 3l20 19L55 0l20 42z" fill="#d8c47c"/><ellipse cx="38" cy="42" rx="39" ry="11" fill="#c3ac5d"/></g>
+
+  <text x="90" y="995" class="small">Scope shown: laboratory-scale stages completed in this research. Reagent regeneration by electrodialysis is excluded.</text>
+</svg>
