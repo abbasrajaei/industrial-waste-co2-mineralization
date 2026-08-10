@@ -8,7 +8,7 @@ Steel and cement production generate large mineral residues containing calcium-b
 
 The experimental route combined acid extraction, staged pH-swing purification, alkaline CO₂ capture, and carbonation. The work focused on the chemical and process conditions governing calcium recovery, impurity removal, CO₂ absorption, and CaCO₃ precipitation.
 
-> **Scope:** This repository presents my experimental and process-engineering contribution. Life-cycle assessment is excluded because it was not performed by me. Detailed raw data and partner-confidential information are not published here.
+> **Scope:** This repository presents my experimental and process-engineering contribution. Detailed raw data and partner-confidential information are not published here.
 
 ## Research objective
 
