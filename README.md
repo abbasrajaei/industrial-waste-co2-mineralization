@@ -8,7 +8,7 @@ Steel and cement production generate large mineral residues containing calcium-b
 
 The experimental route combined acid extraction, staged pH-swing purification, alkaline CO₂ capture, and carbonation. The work focused on the chemical and process conditions governing calcium recovery, impurity removal, CO₂ absorption, and CaCO₃ precipitation.
 
-> **Scope:** This repository presents my experimental and process-engineering contribution. Detailed raw data and partner-confidential information are not published here.
+> **Scope:** This repository presents my experimental and process-engineering contribution. Life-cycle assessment is excluded because it was not performed by me. Detailed raw data and partner-confidential information are not published here.
 
 ## Research objective
 
@@ -30,9 +30,19 @@ To develop and assess an aqueous process that:
 
 ## Process route
 
-![Experimental process flow for indirect CO₂ mineralization](figures/process-flow.png)
-
-[View the editable SVG version](figures/process-flow.svg)
+```mermaid
+flowchart TD
+    A["BOF slag, BF slag, ladle slag, or CKD"] --> B["Acid extraction"]
+    B --> C["Solid-liquid separation"]
+    C --> D["Staged pH-swing purification"]
+    D --> E["Purified Ca-rich solution"]
+    F["CO₂-containing gas"] --> G["NaOH scrubber"]
+    G --> H["Carbonate-rich solution"]
+    E --> I["Carbonation and precipitation"]
+    H --> I
+    I --> J["CaCO₃ product"]
+    D --> K["Impurity precipitates"]
+```
 
 The complete research concept also considered reagent regeneration by electrodialysis. That regeneration step is part of the wider process concept and is not presented here as completed experimental work.
 
@@ -42,7 +52,7 @@ The complete research concept also considered reagent regeneration by electrodia
 
 Organic and inorganic extraction agents were screened to understand the trade-off between calcium recovery and dissolution of competing elements. Temperature, contact time, reagent concentration, and solid-to-liquid ratio were evaluated.
 
-For BOF slag, a selected condition of **2 M HCl, 80 °C, and 30 min** produced **91% calcium extraction**. The result established a high-recovery basis for the downstream purification study.
+For BOF slag, a selected condition of **2 M HCl, 80 °C, and 60 min** produced **91% calcium extraction**. The result established a high-recovery basis for the downstream purification study.
 
 ### 2. pH-swing purification
 
