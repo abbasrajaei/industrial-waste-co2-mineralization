@@ -30,19 +30,9 @@ To develop and assess an aqueous process that:
 
 ## Process route
 
-```mermaid
-flowchart TD
-    A["BOF slag, BF slag, ladle slag, or CKD"] --> B["Acid extraction"]
-    B --> C["Solid-liquid separation"]
-    C --> D["Staged pH-swing purification"]
-    D --> E["Purified Ca-rich solution"]
-    F["CO₂-containing gas"] --> G["NaOH scrubber"]
-    G --> H["Carbonate-rich solution"]
-    E --> I["Carbonation and precipitation"]
-    H --> I
-    I --> J["CaCO₃ product"]
-    D --> K["Impurity precipitates"]
-```
+![Experimental process flow for indirect CO₂ mineralization](figures/process-flow.png)
+
+[View the editable SVG version](figures/process-flow.svg)
 
 The complete research concept also considered reagent regeneration by electrodialysis. That regeneration step is part of the wider process concept and is not presented here as completed experimental work.
 
