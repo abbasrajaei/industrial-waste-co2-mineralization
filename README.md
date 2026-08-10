@@ -52,7 +52,7 @@ The complete research concept also considered reagent regeneration by electrodia
 
 Organic and inorganic extraction agents were screened to understand the trade-off between calcium recovery and dissolution of competing elements. Temperature, contact time, reagent concentration, and solid-to-liquid ratio were evaluated.
 
-For BOF slag, a selected condition of **2 M HCl, 80 °C, and 60 min** produced **91% calcium extraction**. The result established a high-recovery basis for the downstream purification study.
+For BOF slag, a selected condition of **2 M HCl, 80 °C, and 30 min** produced **91% calcium extraction**. The result established a high-recovery basis for the downstream purification study.
 
 ### 2. pH-swing purification
 
