@@ -23,3 +23,4 @@ The XRD results confirm that the bypass dust contains calcium in several mineral
 ## Files
 
 - [Original XRD pattern](cement-kiln-bypass-dust-XRD.pdf)
+- [XRF and quantitative XRD composition table](XRF%20and%20XRD%20analysis%20-%20bypass%20dust%283%29.docx)
