@@ -18,8 +18,7 @@ Quartz represents residual silica from the cement raw materials. The smaller amo
 
 ## Relevance to CO₂ mineralisation
 
-The XRD results confirm that the bypass dust contains calcium in several mineral forms. Free lime and portlandite are expected to provide more readily reactive calcium. Calcium is also present in larnite, hatrurite, brownmillerite, gehlenite, akermanite, and sulfate phases.
-
+The XRD results confirm that the bypass dust contains calcium in several mineral forms. Free lime and portlandite are expected to provide more readily reactive calcium. Calcium is also present in larnite, hatrurite, brownmillerite, gehlenite, akermanite, and sulfate phases. The XRF analysis provides the clearest evidence that this cement kiln bypass dust is a suitable feedstock for CO₂ mineralisation. Calcium was the dominant component, with a CaO-equivalent content of 51.59 wt%. This was considerably higher than the contents of SiO₂ (14.74 wt%), Al₂O₃ (4.38 wt%), Fe₂O₃ (2.13 wt%), and MgO (0.46 wt%). The high calcium content indicates that the material contains a large calcium reservoir that may be recovered and used to form stable calcium carbonate.
 ## Files
 
 - [Original XRD pattern](cement-kiln-bypass-dust-XRD.pdf)
