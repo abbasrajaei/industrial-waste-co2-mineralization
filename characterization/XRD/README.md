@@ -2,7 +2,7 @@
 
 X-ray diffraction (XRD) was used to identify the crystalline phases present in the raw cement kiln bypass dust before extraction and CO₂ mineralisation.
 
-In the XRD pattern, the horizontal axis represents the diffraction angle, (2\theta), and the vertical axis shows the measured intensity in counts. Each peak is associated with diffraction from one or more crystalline phases. Phase identification and quantitative values were obtained by comparing the measured pattern with reference crystal structures. Because some peaks overlap, the phase percentages should be interpreted as quantitative XRD estimates rather than exact bulk-composition measurements.
+In the XRD pattern, the horizontal axis represents the diffraction angle, 2θ, and the vertical axis shows the measured intensity in counts. Each peak is associated with diffraction from one or more crystalline phases. Phase identification and quantitative values were obtained by comparing the measured pattern with reference crystal structures. Because some peaks overlap, the phase percentages should be interpreted as quantitative XRD estimates rather than exact bulk-composition measurements.
 
 ## Main observations
 
