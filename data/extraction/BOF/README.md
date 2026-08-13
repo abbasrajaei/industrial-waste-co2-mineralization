@@ -79,6 +79,29 @@ S_{\mathrm{Ca}} \, (\%) = \frac{m_{\mathrm{Ca,ext}}}{m_{\mathrm{Ca,ext}} + m_{\m
 
 Recovery describes the fraction of the initial elemental inventory transferred from the slag to the liquid phase. Selectivity describes the proportion of calcium within the combined extracted mass of Ca, Fe, Mg, Al, Mn, and Cr.
 
+## Modelled pH evolution
+
+![Modelled pH evolution during BOF-slag extraction with 2 M HCl](BOF-pH-versus-time.png)
+
+*Modelled pH profiles for BOF4, BOF5, and BOF6, constructed to represent the observed rapid initial response and the measured endpoint pH values. The curves are interpretive profiles rather than continuously measured time-series data.*
+
+- The pH increased sharply during the first minute, consistent with rapid H⁺ consumption and dissolution of reactive BOF phases. BOF6 showed the largest increase, indicating that the higher extraction temperature accelerated the initial reaction.
+- After the initial stage, the pH approached a plateau as the dissolution rate decreased. The slight later decline may reflect continued solution equilibration involving dissolved silicic acid and condensation of silanol groups into silica-rich material. These reactions can be represented as:
+
+**Silicic-acid deprotonation**
+
+```math
+\mathrm{Si(OH)_4 + OH^- \rightleftharpoons SiO(OH)_3^- + H_2O}
+```
+
+**Silanol condensation**
+
+```math
+2\,{\equiv}\mathrm{Si{-}OH} \rightleftharpoons {\equiv}\mathrm{Si{-}O{-}Si}{\equiv} + \mathrm{H_2O}
+```
+
+The pH trend alone does not confirm silica polymerisation; direct analysis of dissolved silicon or the residual solid would be required.
+
 ## Main findings from the modelled dataset
 
 - BOF6 gave the highest calcium recovery. At 80 °C and 60 min, calcium recovery reached 91.0%, with a calcium selectivity of 68.1%.
