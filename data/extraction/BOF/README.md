@@ -25,51 +25,57 @@ Each test used 10 g of BOF slag and 150 mL of 2 M HCl solution, corresponding to
 
 ICP-OES concentrations are corrected for the dilution applied during sample preparation:
 
-$$
-C_i=C_{i,\mathrm{ICP}}\,DF
-\tag{1}
-$$
+**Equation (1)**
+
+```math
+C_i = C_{i,\mathrm{ICP}} \, DF
+```
 
 where $C_i$ is the corrected concentration of element $i$ (mg L⁻¹), $C_{i,\mathrm{ICP}}$ is the measured concentration (mg L⁻¹), and $DF$ is the dilution factor.
 
 The elemental mass transferred to the leachate is calculated as:
 
-$$
-m_{i,\mathrm{ext}}=C_iV
-\tag{2}
-$$
+**Equation (2)**
+
+```math
+m_{i,\mathrm{ext}} = C_i \, V
+```
 
 where $m_{i,\mathrm{ext}}$ is the extracted elemental mass (mg) and $V$ is the leachate volume (L).
 
 For elements reported by XRF as oxides, the initial elemental mass is calculated from the oxide mass fraction:
 
-$$
-m_{i,0}=m_{\mathrm{slag}}\times1000\times w_{\mathrm{oxide}}\times\frac{n_iM_i}{M_{\mathrm{oxide}}}
-\tag{3}
-$$
+**Equation (3)**
+
+```math
+m_{i,0} = m_{\mathrm{slag}} \, 1000 \, w_{\mathrm{oxide}} \, \frac{n_i M_i}{M_{\mathrm{oxide}}}
+```
 
 where $m_{\mathrm{slag}}$ is the initial slag mass (g), $w_{\mathrm{oxide}}$ is the oxide mass fraction, $n_i$ is the number of atoms of element $i$ in the oxide formula, and $M$ denotes molar mass.
 
 For calcium reported as CaO:
 
-$$
-m_{\mathrm{Ca},0}=m_{\mathrm{slag}}\times1000\times w_{\mathrm{CaO}}\times\frac{40.078}{56.077}
-\tag{4}
-$$
+**Equation (4)**
+
+```math
+m_{\mathrm{Ca},0} = m_{\mathrm{slag}} \, 1000 \, w_{\mathrm{CaO}} \, \frac{40.078}{56.077}
+```
 
 Elemental recovery is the proportion of the initial elemental inventory transferred to the leachate:
 
-$$
-R_i\,(\%)=\frac{m_{i,\mathrm{ext}}}{m_{i,0}}\times100
-\tag{5}
-$$
+**Equation (5)**
+
+```math
+R_i \, (\%) = \frac{m_{i,\mathrm{ext}}}{m_{i,0}} \, 100
+```
 
 Calcium selectivity is calculated on an extracted-mass basis:
 
-$$
-S_{\mathrm{Ca}}\,(\%)=\frac{m_{\mathrm{Ca,ext}}}{m_{\mathrm{Ca,ext}}+m_{\mathrm{Fe,ext}}+m_{\mathrm{Mg,ext}}+m_{\mathrm{Al,ext}}+m_{\mathrm{Mn,ext}}+m_{\mathrm{Cr,ext}}}\times100
-\tag{6}
-$$
+**Equation (6)**
+
+```math
+S_{\mathrm{Ca}} \, (\%) = \frac{m_{\mathrm{Ca,ext}}}{m_{\mathrm{Ca,ext}} + m_{\mathrm{Fe,ext}} + m_{\mathrm{Mg,ext}} + m_{\mathrm{Al,ext}} + m_{\mathrm{Mn,ext}} + m_{\mathrm{Cr,ext}}} \, 100
+```
 
 Recovery describes the fraction of the initial elemental inventory transferred from the slag to the liquid phase. Selectivity describes the proportion of calcium within the combined extracted mass of Ca, Fe, Mg, Al, Mn, and Cr.
 
