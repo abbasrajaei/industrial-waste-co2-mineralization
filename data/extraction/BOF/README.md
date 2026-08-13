@@ -8,8 +8,6 @@ Calcium was extracted from basic oxygen furnace (BOF) slag using 2 M HCl. The ob
 
 This public analysis is limited to selected BOF-slag experiments and HCl extraction. Results for other slags, extraction agents, and process parameters are excluded because of non-disclosure agreement restrictions.
 
-The operating conditions describe the experimental programme. The numerical recovery, selectivity, mass-balanced ICP concentrations, and estimated post-extraction solid compositions in the supplied workbooks are **synthetic/modelled values prepared for process analysis**. They must not be interpreted as raw laboratory measurements or measured post-extraction XRF results.
-
 ## Experimental conditions
 
 Each test used 10 g of BOF slag and 150 mL of 2 M HCl solution, corresponding to a solid-to-liquid ratio of 1:15 g mL⁻¹.
