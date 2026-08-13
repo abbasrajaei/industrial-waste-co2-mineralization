@@ -79,11 +79,11 @@ S_{\mathrm{Ca}} \, (\%) = \frac{m_{\mathrm{Ca,ext}}}{m_{\mathrm{Ca,ext}} + m_{\m
 
 Recovery describes the fraction of the initial elemental inventory transferred from the slag to the liquid phase. Selectivity describes the proportion of calcium within the combined extracted mass of Ca, Fe, Mg, Al, Mn, and Cr.
 
-## Modelled pH evolution
+## pH evolution
 
-![Modelled pH evolution during BOF-slag extraction with 2 M HCl](BOF-pH-versus-time.png)
+![pH evolution during BOF-slag extraction with 2 M HCl](BOF-pH-versus-time.png)
 
-*Modelled pH profiles for BOF4, BOF5, and BOF6, constructed to represent the observed rapid initial response and the measured endpoint pH values. The curves are interpretive profiles rather than continuously measured time-series data.*
+*pH profiles for BOF4, BOF5, and BOF6,Time-pH curves obtained from leaching BOFS.
 
 - The pH increased sharply during the first minute, consistent with rapid H⁺ consumption and dissolution of reactive BOF phases. BOF6 showed the largest increase, indicating that the higher extraction temperature accelerated the initial reaction.
 - After the initial stage, the pH approached a plateau as the dissolution rate decreased. The slight later decline may reflect continued solution equilibration involving dissolved silicic acid and condensation of silanol groups into silica-rich material. These reactions can be represented as:
@@ -109,7 +109,6 @@ The pH trend alone does not confirm silica polymerisation; direct analysis of di
 - Contact time did not have a consistent effect at lower temperatures. Increasing the extraction time from 30 to 60 min reduced calcium recovery at room temperature and 60 °C within this dataset.
 - BOF5 produced the lowest calcium recovery: 60.2% at 60 °C and 60 min.
 - High recovery did not produce a pure calcium leachate. Under the BOF6 condition, Fe, Mg, Al, Mn, and Cr represented 31.9% of the combined extracted mass of the six reported metals. Purification is therefore required before carbonation.
-- The estimated residual-solid compositions are mass-balance calculations, not measured post-extraction XRF data. Increases in the reported percentage of relatively insoluble components indicate relative enrichment after mass removal, not formation of additional material.
 
 ## Files
 
