@@ -1,0 +1,90 @@
+# Hydrochloric-acid extraction from BOF slag
+
+## Objective
+
+Calcium was extracted from basic oxygen furnace (BOF) slag using 2 M HCl. The objective was to examine the effects of temperature and contact time on calcium recovery and its selectivity relative to Fe, Mg, Al, Mn, and Cr. The resulting leachate was intended for pH-swing purification followed by CO₂ mineralisation.
+
+## Scope and data status
+
+This public analysis is limited to selected BOF-slag experiments and HCl extraction. Results for other slags, extraction agents, and process parameters are excluded because of non-disclosure agreement restrictions.
+
+The operating conditions describe the experimental programme. The numerical recovery, selectivity, mass-balanced ICP concentrations, and estimated post-extraction solid compositions in the supplied workbooks are **synthetic/modelled values prepared for process analysis**. They must not be interpreted as raw laboratory measurements or measured post-extraction XRF results.
+
+## Experimental conditions
+
+Each test used 10 g of BOF slag and 150 mL of 2 M HCl solution, corresponding to a solid-to-liquid ratio of 1:15 g mL⁻¹.
+
+| Test | Temperature | Contact time |
+|---|---:|---:|
+| BOF1 | Room temperature | 30 min |
+| BOF2 | 60 °C | 30 min |
+| BOF3 | 80 °C | 30 min |
+| BOF4 | Room temperature | 60 min |
+| BOF5 | 60 °C | 60 min |
+| BOF6 | 80 °C | 60 min |
+
+## Calculation method
+
+ICP-OES concentrations are corrected for the dilution applied during sample preparation:
+
+$$
+C_i=C_{i,\mathrm{ICP}}\,DF
+\tag{1}
+$$
+
+where $C_i$ is the corrected concentration of element $i$ (mg L⁻¹), $C_{i,\mathrm{ICP}}$ is the measured concentration (mg L⁻¹), and $DF$ is the dilution factor.
+
+The elemental mass transferred to the leachate is calculated as:
+
+$$
+m_{i,\mathrm{ext}}=C_iV
+\tag{2}
+$$
+
+where $m_{i,\mathrm{ext}}$ is the extracted elemental mass (mg) and $V$ is the leachate volume (L).
+
+For elements reported by XRF as oxides, the initial elemental mass is calculated from the oxide mass fraction:
+
+$$
+m_{i,0}=m_{\mathrm{slag}}\times1000\times w_{\mathrm{oxide}}\times\frac{n_iM_i}{M_{\mathrm{oxide}}}
+\tag{3}
+$$
+
+where $m_{\mathrm{slag}}$ is the initial slag mass (g), $w_{\mathrm{oxide}}$ is the oxide mass fraction, $n_i$ is the number of atoms of element $i$ in the oxide formula, and $M$ denotes molar mass.
+
+For calcium reported as CaO:
+
+$$
+m_{\mathrm{Ca},0}=m_{\mathrm{slag}}\times1000\times w_{\mathrm{CaO}}\times\frac{40.078}{56.077}
+\tag{4}
+$$
+
+Elemental recovery is the proportion of the initial elemental inventory transferred to the leachate:
+
+$$
+R_i\,(\%)=\frac{m_{i,\mathrm{ext}}}{m_{i,0}}\times100
+\tag{5}
+$$
+
+Calcium selectivity is calculated on an extracted-mass basis:
+
+$$
+S_{\mathrm{Ca}}\,(\%)=\frac{m_{\mathrm{Ca,ext}}}{m_{\mathrm{Ca,ext}}+m_{\mathrm{Fe,ext}}+m_{\mathrm{Mg,ext}}+m_{\mathrm{Al,ext}}+m_{\mathrm{Mn,ext}}+m_{\mathrm{Cr,ext}}}\times100
+\tag{6}
+$$
+
+Recovery describes the fraction of the initial elemental inventory transferred from the slag to the liquid phase. Selectivity describes the proportion of calcium within the combined extracted mass of Ca, Fe, Mg, Al, Mn, and Cr.
+
+## Main findings from the modelled dataset
+
+- BOF6 gave the highest calcium recovery. At 80 °C and 60 min, calcium recovery reached 91.0%, with a calcium selectivity of 68.1%.
+- High temperature improved calcium extraction. BOF3 reached 82.0% recovery after 30 min at 80 °C; extending the contact time to 60 min increased the modelled recovery to 91.0%.
+- Contact time did not have a consistent effect at lower temperatures. Increasing the extraction time from 30 to 60 min reduced calcium recovery at room temperature and 60 °C within this dataset.
+- BOF5 produced the lowest calcium recovery: 60.2% at 60 °C and 60 min.
+- High recovery did not produce a pure calcium leachate. Under the BOF6 condition, Fe, Mg, Al, Mn, and Cr represented 31.9% of the combined extracted mass of the six reported metals. Purification is therefore required before carbonation.
+- The estimated residual-solid compositions are mass-balance calculations, not measured post-extraction XRF data. Increases in the reported percentage of relatively insoluble components indicate relative enrichment after mass removal, not formation of additional material.
+
+## Files
+
+- [BOF HCl extraction dataset](BOF-HCl-extraction-data.xlsx): experimental design, modelling basis, mass-balanced ICP concentrations, recovery, and selectivity.
+- [BOF composition before and after extraction](BOF-before-after-extraction-comparison.xlsx): modelled residual-solid compositions for all six tests and a focused comparison of BOF5 and BOF6.
