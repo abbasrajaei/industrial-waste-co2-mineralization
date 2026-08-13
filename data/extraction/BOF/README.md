@@ -84,5 +84,5 @@ Recovery describes the fraction of the initial elemental inventory transferred f
 
 ## Files
 
-- [BOF HCl extraction dataset](BOF-HCl-extraction-data.xlsx): experimental design, modelling basis, mass-balanced ICP concentrations, recovery, and selectivity.
-- [BOF composition before and after extraction](BOF-before-after-extraction-comparison.xlsx): modelled residual-solid compositions for all six tests and a focused comparison of BOF5 and BOF6.
+- [BOF HCl extraction dataset](BOF-HCl-extraction-data.xlsx): experimental design, mass-balanced ICP concentrations, recovery, and selectivity.
+- [BOF composition before and after extraction](BOF-before-after-extraction-comparison.xlsx)
