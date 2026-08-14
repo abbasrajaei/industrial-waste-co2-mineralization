@@ -2,15 +2,15 @@
 
 ## Objective
 
-The pH-swing stage was used to separate dissolved impurities from the calcium-rich solution produced by HCl leaching of basic oxygen furnace (BOF) slag. The objective was to precipitate Al, Si, Fe, Mn, and Mg progressively while retaining most of the dissolved Ca²⁺ for subsequent mineral carbonation.
+The pH-swing stage was used to remove dissolved impurities from the calcium-rich solution obtained after HCl leaching of basic oxygen furnace (BOF) slag. The pH was increased stepwise so that Al, Si, Fe, Mn, and Mg could be progressively removed while most of the dissolved Ca²⁺ remained in solution for the subsequent carbonation stage.
 
-This directory presents selected results from the BOF6 pH-swing experiment. Due to confidentiality restrictions, only BOF results obtained using HCl are reported.
+This directory contains selected results from the BOF6 pH-swing experiment. Because of confidentiality restrictions, only BOF data obtained using HCl are reported.
 
 ## Experimental procedure
 
-The initial BOF6 leachate had a pH of approximately 1.7. The pH was increased progressively using 1 M NaOH. Solid-liquid separation was performed at each selected pH, allowing the precipitated solids and residual leachate to be collected separately.
+The initial BOF6 leachate had a pH of approximately 1.7. A 1 M NaOH solution was added progressively to increase the pH. At each selected pH, the suspension was separated into solid and liquid phases, allowing the precipitate and residual leachate to be analysed independently.
 
-The principal investigated pH levels were 5, 6, 7, 8, 9, and 10. An additional observation near pH 3.5 was used to examine the beginning of low-pH Al and Si precipitation.
+The main pH values investigated were 5, 6, 7, 8, 9, and 10. An additional observation at approximately pH 3.5 was used to examine the onset of precipitation at lower pH.
 
 For divalent metal ions, hydroxide precipitation can be represented by:
 
@@ -24,7 +24,7 @@ For trivalent metal ions:
 
 where M³⁺ may represent Al³⁺ or Fe³⁺.
 
-The precipitation behaviour depends on the dissolved metal concentration, oxidation state, pH, solution composition, complex formation, and solubility product of the corresponding solid phase.
+The actual precipitation behaviour depends on metal concentration, oxidation state, pH, solution composition, complex formation, and the solubility of the corresponding solid phase.
 
 ## Initial BOF6 leachate
 
