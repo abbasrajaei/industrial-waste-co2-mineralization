@@ -92,7 +92,7 @@ Subsequent dehydration may produce iron oxyhydroxide phases:
 
 > **Fe(OH)₃(s) → FeOOH(s) + H₂O(l)**
 
-The dried material should therefore be described as an **iron-rich hydroxide/oxyhydroxide precipitate**, rather than pure Fe(OH)₂. Possible phases include poorly crystalline ferrihydrite and goethite-type FeOOH. XRD, SEM-EDS, or complementary spectroscopic analysis would be required for definitive phase identification.
+The dried material should therefore be described as an **iron-rich hydroxide/oxyhydroxide precipitate**, rather than pure Fe(OH)₂. Possible phases include poorly crystalline ferrihydrite and goethite-type FeOOH.
 
 <p align="center">
   <img src="BOF6_dried_Fe_precipitate.jpg" alt="Dried iron-rich precipitate recovered from BOF6 leachate" width="420">
@@ -123,8 +123,6 @@ Magnesium hydroxide precipitation can be represented by:
 > **Mg²⁺(aq) + 2OH⁻(aq) ⇌ Mg(OH)₂(s)**
 
 Mg(OH)₂ generally becomes significant at a higher pH than Fe and Mn hydroxides. Calcium remains comparatively soluble under the investigated purification conditions.
-
-The photographs support the proposed precipitation sequence, but visual appearance alone cannot establish the chemical composition of each solid. The assignments must be checked against ICP-OES measurements of the residual liquid and, where available, SEM-EDS and XRD results for the recovered precipitates.
 
 ## Main observations
 
@@ -157,8 +155,3 @@ The incremental precipitation occurring between two consecutive pH stages can be
 
 These calculations describe removal from the liquid phase. They do not prove that a pure single-element hydroxide was formed because co-precipitation, adsorption, and incorporation into mixed amorphous phases may also occur.
 
-## References
-
-Benali, O., Abdelmoula, M., Refait, P. and Génin, J.M.R. (2001) ‘Effect of orthophosphate on the oxidation products of Fe(II)-Fe(III) hydroxycarbonate: the transformation of green rust to ferrihydrite’, *Geochimica et Cosmochimica Acta*, 65(11), pp. 1715–1726. Available at: [https://doi.org/10.1016/S0016-7037(01)00556-7](https://doi.org/10.1016/S0016-7037\(01\)00556-7).
-
-Triwigati, P.T., Noh, S., Sim, G., Lee, J., Kim, E., Moon, S. and Park, Y. (2025) ‘Investigation of pH swing carbon mineralization for valuable element recovery and CO₂ sequestration using steelmaking slag’, *Journal of Industrial and Engineering Chemistry*, 147, pp. 658–667. Available at: [https://doi.org/10.1016/j.jiec.2024.12.057](https://doi.org/10.1016/j.jiec.2024.12.057).
