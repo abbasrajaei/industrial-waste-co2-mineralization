@@ -27,3 +27,4 @@ The public BOF dataset is limited to selected HCl extraction experiments. Result
 
 - [Raw-material characterisation](01-raw-material-characterisation/)
 - [Calcium leaching](02-calcium-leaching/)
+- [Impurity removal by staged pH-swing precipitation](03-impurity-removal/)
