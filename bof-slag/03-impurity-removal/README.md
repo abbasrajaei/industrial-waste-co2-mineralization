@@ -139,6 +139,8 @@ The carbonation reaction is:
 
 The accompanying Excel files contain the BOF6 ICP-OES results, residual elemental fractions, calculated precipitation efficiencies, and pH-dependent charts.
 
+- [`BOF6_pH_swing_results.xlsx`](data/BOF6_pH_swing_results.xlsx): BOF6 staged pH-swing dataset, including calculation sheets and editable pH-dependent charts.
+
 The residual dissolved fraction was calculated as:
 
 > **Residual fraction (%) = [C(pH) ÷ C(initial)] × 100**
