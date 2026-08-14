@@ -103,3 +103,4 @@ The solid product was separated from the liquid and characterised using XRD and 
 
 - [Raw-material characterisation](01-raw-material-characterisation/)
 - [Calcium leaching](02-calcium-leaching/)
+- [Impurity removal by pH-swing precipitation](03-impurity-removal/)
