@@ -8,14 +8,14 @@ After leaching, the suspension was centrifuged and vacuum-filtered. The liquid s
 
 ## Experimental setup
 
-![CKD calcium-leaching setup](figures/CKD_leaching_setup.png)
+![CKD calcium-leaching setup](CKD-leaching-setup.png)
 
 The setup consisted of a stirred extraction flask fitted with a water-cooled condenser. The condenser limited evaporative losses during the experiment.
 
 ## Data files
 
-- [Phase I supernatant composition](data/Phase_I_supernatant_composition.xlsx): ICP-OES composition of the liquid fraction after CKD leaching, with separate data and results sheets.
-- [Phase I residual-solid composition](data/Phase_I_residual_solid_composition.xlsx): composition of the solid residue remaining after HCl and HNO₃ leaching, with separate data and results sheets.
+- [Phase I supernatant composition](supernatant-composition.xlsx): ICP-OES composition of the liquid fraction after CKD leaching, with separate data and results sheets.
+- [Phase I residual-solid composition](residual-solid-composition.xlsx): composition of the solid residue remaining after HCl and HNO₃ leaching, with separate data and results sheets.
 
 The distribution values in these workbooks describe the compositional share of each component within the analysed fraction. They do not represent elemental recovery from the initial CKD.
 

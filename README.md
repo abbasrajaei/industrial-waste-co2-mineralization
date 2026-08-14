@@ -2,6 +2,8 @@
 
 A research portfolio documenting an experimental process for recovering calcium from steelmaking and cement wastes and converting captured CO₂ into precipitated calcium carbonate (CaCO₃).
 
+![Schematic diagram of indirect CO₂ mineralisation](process-flow.jpg)
+
 ## Project overview
 
 Steel and cement production generate large mineral residues containing calcium-bearing phases. This project investigated whether those residues could serve as secondary calcium resources for indirect CO₂ mineralization.
@@ -101,19 +103,23 @@ This work received **third place in the UKCCSRC Early Career Researcher poster c
 
 ## Repository structure
 
-This repository is being developed as a transparent research portfolio. Planned additions include:
+The published work is organised by material. Each study contains its raw-material characterisation and the experimental stages for which non-confidential results are available.
+
+- [Cement kiln dust study](cement-kiln-dust/)
+- [Basic oxygen furnace slag study](bof-slag/)
 
 ```text
 industrial-waste-co2-mineralization/
 ├── README.md
-├── figures/
-│   └── process-flow.png
-├── data/
-│   └── selected-non-confidential-results.csv
-├── analysis/
-│   └── mass-balance-and-performance-calculations
-└── docs/
-    └── methods-and-research-summary
+├── process-flow.jpg
+├── cement-kiln-dust/
+│   ├── README.md
+│   ├── 01-raw-material-characterisation/
+│   └── 02-calcium-leaching/
+└── bof-slag/
+    ├── README.md
+    ├── 01-raw-material-characterisation/
+    └── 02-calcium-leaching/
 ```
 
 ## Limitations

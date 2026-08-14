@@ -81,7 +81,7 @@ Recovery describes the fraction of the initial elemental inventory transferred f
 
 ## pH evolution
 
-![pH evolution during BOF-slag extraction with 2 M HCl](BOF-pH-versus-time.png)
+![pH evolution during BOF-slag extraction with 2 M HCl](pH-versus-time.png)
 
 *pH profiles for BOF4, BOF5, and BOF6,Time-pH curves obtained from leaching BOFS.
 
@@ -112,5 +112,5 @@ The pH trend alone does not confirm silica polymerisation; direct analysis of di
 
 ## Files
 
-- [BOF HCl extraction dataset](BOF-HCl-extraction-data.xlsx): experimental design, mass-balanced ICP concentrations, recovery, and selectivity.
-- [BOF composition before and after extraction](BOF-before-after-extraction-comparison.xlsx)
+- [BOF HCl extraction dataset](HCl-extraction-data.xlsx): experimental design, mass-balanced ICP concentrations, recovery, and selectivity.
+- [BOF composition before and after extraction](before-after-extraction.xlsx)
