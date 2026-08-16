@@ -100,7 +100,7 @@ The dried material should therefore be described as an **iron-rich hydroxide/oxy
 
 <p align="center"><em>Orange-brown iron-rich precipitate after filtration, exposure to air, and drying.</em></p>
 
-## Expected precipitation sequence
+## Precipitation sequence
 
 | pH region | Dominant expected removal | Observed colour and appearance | Interpretation |
 | --- | --- | --- | --- |
