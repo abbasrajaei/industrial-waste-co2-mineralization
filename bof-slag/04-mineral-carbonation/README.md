@@ -176,3 +176,21 @@ Before solid-recovery losses, the CaCO₃ formed corresponded to a mineralisatio
 - Carbonate produced by capturing CO₂ in 2 M NaOH precipitated dissolved Ca²⁺ from the purified BOF leachate as CaCO₃.
 - One litre of purified BOF leachate yielded 20.80 g of dry precipitate containing 19.76 g of CaCO₃.
 - The recovered product corresponded to an overall Ca-to-CaCO₃ recovery of 88.2% and a CO₂ storage capacity of 130.4 kg CO₂ t⁻¹ BOF slag.
+
+## Process-performance figures
+
+### CaCO₃ yield through processing
+
+![CaCO₃ yield through the BOF mineral-carbonation process](BOF_CaCO3_yield_through_processing.png)
+
+*Figure 1. CaCO₃ mass calculated from the dissolved calcium inventory, formed before solid-liquid separation, and contained in the recovered product.*
+
+The theoretical CaCO₃ yield was 22.41 g. The predicted mass formed before solid-liquid separation was 21.96 g at 98% Ca precipitation efficiency, while 19.76 g of CaCO₃ was retained in the recovered product after separation and drying losses.
+
+### CO₂ storage capacity
+
+![CO₂ storage capacity of the BOF mineral-carbonation process](BOF_CO2_storage_capacity.png)
+
+*Figure 2. CO₂ storage capacity before solid-liquid separation and based on the recovered BOF-derived product.*
+
+The calculated storage capacity decreased from 144.9 to 130.4 kg CO₂ t⁻¹ BOF slag after product-recovery losses were included. The recovered-product value provides the practical capacity for the stated experimental basis.
