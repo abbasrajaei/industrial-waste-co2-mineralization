@@ -194,3 +194,7 @@ The theoretical CaCO₃ yield was 22.41 g. The predicted mass formed before soli
 *Figure 2. CO₂ storage capacity before solid-liquid separation and based on the recovered BOF-derived product.*
 
 The calculated storage capacity decreased from 144.9 to 130.4 kg CO₂ t⁻¹ BOF slag after product-recovery losses were included. The recovered-product value provides the practical capacity for the stated experimental basis.
+
+## Data file
+
+- [`BOF_Mineralization_Results.xlsx`](BOF_Mineralization_Results.xlsx): calculation workbook containing the mineralisation basis, CaCO₃ yield, CO₂ uptake, storage-capacity results, and editable charts.
