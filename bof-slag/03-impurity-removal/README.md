@@ -110,7 +110,7 @@ The dried material should therefore be described as an **iron-rich hydroxide/oxy
 | 7–8 | Fe | Pale olive-green suspension | Fe(OH)₂ and possible mixed Fe(II)-Fe(III) phases |
 | 8–9 | Mn and remaining Fe | No photograph assigned conclusively | Mn hydroxide formation and possible co-precipitation with residual Fe |
 | 10 | Mg | No photograph assigned conclusively | Mg(OH)₂, which is generally white or cream |
-| Up to pH 10 | Ca predominantly remains dissolved | Ca-rich final leachate | Solution retained for subsequent mineral carbonation |
+| Up to pH 10 | Ca remains partly dissolved | Ca-rich final leachate | Approximately 39.96% of the initial dissolved Ca remained at pH 10 |
 
 Mn precipitation may be represented by:
 
@@ -129,7 +129,15 @@ Mg(OH)₂ generally becomes significant at a higher pH than Fe and Mn hydroxides
 - Low-pH neutralisation produced a white to pale beige gelatinous material, consistent with combined aluminium hydroxide and hydrated silica precipitation between pH 3.5 and 5.
 - Iron precipitation produced a pale olive-green suspension near pH 7–8. The recovered material became orange-brown during air exposure and drying because of Fe(II) oxidation.
 
-Calcium was retained predominantly in the liquid phase during impurity removal, providing a purified Ca-rich solution for subsequent reaction with captured CO₂ and production of CaCO₃.
+<p align="center">
+  <img src="BOF6_pH_swing_residual_fractions.png" alt="Residual elemental fractions during the BOF6 pH swing" width="1000">
+</p>
+
+<p align="center"><em>Residual elemental fractions in the BOF6 leachate during sequential pH adjustment. Values are relative to the initial dissolved amount of each element at pH 1.7.</em></p>
+
+The profile shows staged impurity removal. Al and Si were removed by pH 5, Fe was almost completely removed by pH 8, Mn by pH 9, and Mg by pH 10. The residual Ca fraction decreased from 100% to 39.96%, showing that purification improved leachate selectivity but was accompanied by substantial calcium loss.
+
+The remaining Ca-rich solution was retained for subsequent reaction with captured CO₂ and production of CaCO₃.
 
 The carbonation reaction is:
 
