@@ -8,7 +8,7 @@
 
 Steelmaking and cement production generate alkaline solid residues containing calcium- and magnesium-bearing phases. These materials are commonly managed as wastes, but their reactive metal content creates an opportunity for permanent CO₂ storage and by-product recovery.
 
-Mineral carbonation converts CO₂ into thermodynamically stable carbonates such as CaCO₃ and MgCO₃. In the indirect route, reactive metals are first extracted into solution, co-extracted impurities are separated, and the purified solution is carbonated under controlled conditions ([Sanna et al., 2014](https://doi.org/10.1039/C4CS00035H); [Renforth, 2019](https://doi.org/10.1038/s41467-019-09475-5)).
+Mineral carbonation converts CO₂ into thermodynamically stable carbonates such as CaCO₃ and MgCO₃. In the indirect route, reactive metals are first extracted into solution, co-extracted impurities are separated, and the purified solution is carbonated under controlled conditions.
 
 This project developed an integrated indirect mineralisation process for steel slags and cement kiln dust. The work combined experimental design, selective calcium extraction, pH-swing purification, CO₂ absorption, carbonate precipitation, and product characterisation.
 
