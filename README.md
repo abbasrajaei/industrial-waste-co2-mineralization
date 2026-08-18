@@ -24,7 +24,7 @@ The investigation examined how feedstock and extraction conditions affected calc
 
 Five industrial residues were investigated: basic oxygen furnace slag, blast-furnace slag, ladle slag, and two cement-kiln-dust samples. Approximately 150 extraction experiments were completed.
 
-The public repository focuses on representative BOF slag and cement kiln dust case studies. Complete DOE matrices, industrial sample information, and selected analytical data are excluded because of confidentiality restrictions. Life-cycle assessment is also excluded because it was not performed by the author.
+(The public repository focuses on representative BOF slag and cement kiln dust case studies. Complete DOE matrices, industrial sample information, and selected analytical data are excluded because of confidentiality restrictions.)
 
 ## Experimental work packages
 
