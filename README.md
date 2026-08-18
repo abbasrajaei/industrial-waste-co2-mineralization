@@ -193,16 +193,6 @@ This repository contains selected experimental results and representative datase
 
 The reported work was conducted at laboratory scale. The results do not establish commercial feasibility. Further development should address reagent regeneration, water demand, solids handling, impurity management, continuous operation, and validation at larger scale.
 
-## References
-
-Jo, H., Lee, M.G., Park, J. and Jung, K.D. (2017) ‘Preparation of high-purity nano-CaCO₃ from steel slag’, *Energy*, 120, pp. 884–894. [https://doi.org/10.1016/j.energy.2016.11.140](https://doi.org/10.1016/j.energy.2016.11.140)
-
-Renforth, P. (2019) ‘The negative emission potential of alkaline materials’, *Nature Communications*, 10, 1401. [https://doi.org/10.1038/s41467-019-09475-5](https://doi.org/10.1038/s41467-019-09475-5)
-
-Sanna, A., Uibu, M., Caramanna, G., Kuusik, R. and Maroto-Valer, M.M. (2014) ‘A review of mineral carbonation technologies to sequester CO₂’, *Chemical Society Reviews*, 43, pp. 8049–8080. [https://doi.org/10.1039/C4CS00035H](https://doi.org/10.1039/C4CS00035H)
-
-Sun, Y., Yao, M.S., Zhang, J.P. and Yang, G. (2011) ‘Indirect CO₂ mineral sequestration by steelmaking slag with NH₄Cl as leaching solution’, *Chemical Engineering Journal*, 173, pp. 437–445. [https://doi.org/10.1016/j.cej.2011.08.002](https://doi.org/10.1016/j.cej.2011.08.002)
-
 ## Researcher
 
 **Abbas Rajaei**  
