@@ -22,8 +22,6 @@ The final solid obtained after mineralisation of the purified basic oxygen furna
 
 ## Main observations
 
-- The product contained angular, faceted, and strongly agglomerated particles with a broad apparent size distribution.
-- Blocky and partly rhombohedral features were compatible with calcite-like CaCO₃ morphology, although SEM alone cannot establish the crystalline phase.
+- Blocky and partly rhombohedral features were compatible with calcite-like CaCO₃ morphology.
 - Fine particles attached to larger particles suggest nucleation, crystal growth, and aggregation during precipitation.
-- No dominant spherical vaterite-like or needle-shaped aragonite-like particle population was observed in the examined fields.
-- The product was a heterogeneous micron-scale precipitate rather than a uniform nano-CaCO₃ powder.
+
