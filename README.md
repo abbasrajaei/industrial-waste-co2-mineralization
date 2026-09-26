@@ -34,10 +34,9 @@ XRF and XRD were used to determine bulk composition and crystalline phases. ICP-
 
 ### WP2: DOE-based calcium extraction
 
-Minitab design of experiments was used to examine leaching agent and concentration, temperature, contact time, and solid-to-liquid ratio. The principal responses were dissolved calcium concentration, calcium recovery, impurity extraction, acid utilisation, and calcium selectivity.
+1. A factorial design of experiments (DOE) was used to examine how operating parameters and their potential interactions affected calcium extraction from three steel-industry feedstocks: basic oxygen furnace (BOF) slag, ladle slag, and blast-furnace (BF) slag. The leaching agents comprised three inorganic acids—hydrochloric acid (HCl), nitric acid (HNO₃), and sulfuric acid (H₂SO₄)—along with the organic acid acetic acid (CH₃COOH) and the ammonium-salt extractant ammonium chloride (NH₄Cl). Each agent was tested at different concentrations to assess the effects of reagent chemistry and concentration on calcium recovery and extraction selectivity. The main experimental factors were feedstock type (A), leaching-agent type (B), and leaching-agent concentration (C), with reaction temperature (D) and reaction time (E) included where varied.
 
-The programme included HCl, HNO₃, H₂SO₄, acetic acid, and selected salt-based extractants. NH₄Cl was treated as an inorganic salt extractant rather than an acid.
-
+2. Calcium extraction from cement kiln dust (CKD) followed a separate controlled-pH leaching strategy. Hydrochloric acid (HCl) and nitric acid (HNO₃) were tested, with the liquid-to-solid ratio adjusted during acid neutralisation to achieve a final leachate pH of approximately 3.0–3.5. Calcium recovery and impurity co-dissolution were quantified to compare the extraction performance and selectivity of the two acids. The resulting Ca-rich leachates then underwent pH-swing purification before mineral carbonation.
 ### WP3: pH-swing purification
 
 Following extraction, 1 M NaOH was added gradually to increase the leachate pH. Solid-liquid separation was performed at selected stages to remove dissolved impurities while retaining calcium in solution.
