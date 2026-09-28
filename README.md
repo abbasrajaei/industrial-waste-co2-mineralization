@@ -1,4 +1,4 @@
-# Indirect CO₂ Mineralisation of Steel and Cement Wastes
+#  Carbon Sequestration in Steel and Cement Industries Using Indirect Mineral Carbonation (IMC) Process
 
 ### Experimental process development, selective calcium recovery, pH-swing purification, and CaCO₃ production
 
